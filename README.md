@@ -2,8 +2,8 @@
 
 Star Wars
 
-Fatma Değirmenci  -	170201008
 Berfin Kösemen	  -	170201058
+Fatma Değirmenci  -	170201008
 
 Bu README.md dosyası, Star Wars projesine aittir.
 Bu paket, kaynak kodu ile aynı dizin içerisinde bulunacaktır.
