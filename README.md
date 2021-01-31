@@ -5,16 +5,14 @@ Star Wars
 Fatma Değirmenci  -	170201008
 Berfin Kösemen	  -	170201058
 
-Bu README.nb dosyası, Star Wars projesine aittir.
+Bu README.md dosyası, Star Wars projesine aittir.
 Bu paket, kaynak kodu ile aynı dizin içerisinde bulunacaktır.
 
 
 1-PAKETİN İÇERİĞİ:
 -------------------
-StarWars.zip - Projenin kaynak kodunun ve yardımcı dosyaların ziplenmiş hali.
-170201008-170201058.txt - Projenin tek dosyaya indirgenmiş salt kaynak kodu.
-rapor.doc - Proje raporu.
-readme.txt - Bu dosya.
+Proje dosyaları.
+README.md - Bu dosya.
 -------------------
 
 
